@@ -474,7 +474,7 @@ window.open("https://github.com/GeniusXD/KrunkerXD", '_self')
 
 function UI() {
 document.getElementById("merchHolder").innerHTML = `<div id="merchHolder" onclick="openURL('https://github.com/GeniusXD')">
-<img id="merchImg" src="https://www.whatsappprofiledpimages.com/wp-content/uploads/2018/07/cool-profile-pictures2-291x300.jpg">
+ <span class="text"><center>Click for more hacks!</center></span>
 </div>`
 };
 
@@ -482,7 +482,7 @@ document.getElementById("merchHolder").innerHTML = `<div id="merchHolder" onclic
 
 
     document.getElementById("aContainer").innerHTML = `<div class="neon">
-  <span class="text" data-text="thanks"><center>krunkerxd</center></span>
+  <span class="text"><center>krunkerxd</center></span>
   <span class="gradient"></span>
   <span class="spotlight"></span>
 </div>`;
